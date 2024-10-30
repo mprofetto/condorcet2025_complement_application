@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-1/exo-1.csproj",
-      "projectName": "exo-1",
-      "projectPath": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-1/exo-1.csproj",
+      "projectUniqueName": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/exo-2.csproj",
+      "projectName": "exo-2",
+      "projectPath": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/exo-2.csproj",
       "packagesPath": "/home/mprofett/.nuget/packages/",
-      "outputPath": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-1/obj/",
+      "outputPath": "/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mprofett/.nuget/NuGet/NuGet.Config"

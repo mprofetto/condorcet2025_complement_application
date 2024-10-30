@@ -1,0 +1,15 @@
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/bin/Debug/net8.0/exo-2
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/bin/Debug/net8.0/exo-2.deps.json
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/bin/Debug/net8.0/exo-2.runtimeconfig.json
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/bin/Debug/net8.0/exo-2.dll
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/bin/Debug/net8.0/exo-2.pdb
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.AssemblyInfoInputs.cache
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.AssemblyInfo.cs
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.csproj.CoreCompileInputs.cache
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.sourcelink.json
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.dll
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/refint/exo-2.dll
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.pdb
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/exo-2.genruntimeconfig.cache
+/home/mprofett/condorcet2025_complement_application/10092024_exos/exos/exo-2/obj/Debug/net8.0/ref/exo-2.dll

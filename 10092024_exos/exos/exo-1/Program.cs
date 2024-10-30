@@ -24,7 +24,7 @@ class Program
                 Console.WriteLine("Le spectateur applaudit");
             else
                 Console.WriteLine("Le spectateur siffle");
-            Console.WriteLine("Pour arrêter d'observer entrez Q.");
+            Console.WriteLine("Pour arrêter d'observer entrez q.");
             condition = Console.ReadLine();
         }
     }

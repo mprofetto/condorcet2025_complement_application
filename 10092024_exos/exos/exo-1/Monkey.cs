@@ -9,6 +9,8 @@ namespace Circus
 
         protected Monkey(List<string> trickList)
         {
+            if (trickList == null)
+                throw new Exception("Trick List vide");
             this.trickList = trickList;
         }
 
